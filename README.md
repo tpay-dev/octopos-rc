@@ -1,1 +1,1 @@
-# octopos-rc
+# poly-rc
